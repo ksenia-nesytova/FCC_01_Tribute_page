@@ -17,6 +17,13 @@ body {
 #title {
   text-align: center;
 }
+.subheading {
+  text-align: center;
+}
+
+.background-color {
+  background-color: #4d8552;
+}
 
 h1 {
 
