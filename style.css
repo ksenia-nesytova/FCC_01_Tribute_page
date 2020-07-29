@@ -1,9 +1,10 @@
-
+* {
+  margin: 0 auto;
+  padding: 0;
+}
 body {
   display: block;
-  margin: 0 auto;
-
-  font-family: monospace;
+    font-family: monospace;
   line-height: 1.5;
 
   background-color: white;
@@ -13,13 +14,20 @@ body {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+  padding: 10px;
 }
 
 #title {
   text-align: center;
 }
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
 .subheading {
   text-align: center;
+  font-style: italic;
 }
 
 .background-color {
