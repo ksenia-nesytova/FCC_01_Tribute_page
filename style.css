@@ -1,7 +1,15 @@
 
 body {
   font-family: monospace;
-  background-color: #54ccb0;
+  font-size: 16;
+  line-height: 1.5;
+  background-color: white;
+}
+
+.container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title {
